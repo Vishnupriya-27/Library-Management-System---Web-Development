@@ -1,1 +1,20 @@
 
+
+
+> Main frame(home page) file name is frame.html
+> frame 1 which contains the title is available in 1.html file.
+> frame 2 contains the link for sign up is available in 2.html file,which contains login for librarian and student(here we used image map,(library.jpg)) is available in the file library.html.
+  For librarian login,available in the file liblog.html and for new user is librarian.html .  
+  For student login,available in file stulog.html and for new student login is available in file student.html .  
+> frame 3 contains the link(3.html) for add books.It is available in file addbook.html .
+> frame 4 contains the link(4.html) for borrow books.It is available in file bookdetail.html .
+> frame 5 contains the link(5.html) for return books.It is available in file returnbook.html (here we used image(boo.jpg))
+> frame 6 contains library working hours.It is available in file 6.html.
+> frame 7 contains the links(7.html) for books and novels.
+  For books,it is avilable in file books.html .
+  For novels,it is available in file novel.html .
+> frame 8 contains the image(lib.jpg). It is available in file 8.html . 
+> frame 9 contains quote about library. It is available in file 9.html .
+> frame 10 contains links for contact and feedback.It is available in file 10.html .
+  For contact, it is available in file contact.html .Here we used target in frame 9.It is available in file number.html(here we used image(phone.jpg))
+  For Feedback, it is available in file feedback.html .
