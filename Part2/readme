@@ -1,1 +1,31 @@
 
+TITLE : LIBRARY MANAGEMNT SYSTEM
+
+library.php is the homepage of the project.
+
+If we click on student,student login page will open.
+For new user, the link given below for registering the new user.
+This is same for librarian also.
+
+For student signup details,we used Javascript for phone number validation.It checks the given mobile is matching with the pattern or not.
+
+sdb.php is the database file for student login.We want to extract the file in phpMyAdmin using Xampp.
+sldb.php is the login page file for student.
+
+STUDENT LOGIN CREDENTIALS:
+userid:1097
+password:123
+
+Similarly for librarian,
+ldb.php is the database file for librarian login.We want to extract the file in phpMyAdmin using Xampp.
+lldb.php is the login page for librarian.
+
+LIBRARIAN LOGIN CREDENTIALS:
+username:vishnupriya
+password:2706
+
+Once we log in into student login, there will be a link for feedback.
+In feedback, for email validation we used Javascript.It checks whether the given email address matches with the pattern or not.
+
+feedback.php is the feedback page file.
+fb1.php is the database file for feedback.We want to extract the file in phpMyAdmin using Xampp.It will store the feedback details in Database.
